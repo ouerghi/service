@@ -4,7 +4,7 @@
   angular.module('App', [])
 .controller('ApppController', ApppController)
 .service('AppService', AppService)
-.constant('ApiBasePath', 'http://localhost/service_php')
+.constant('ApiBasePath', 'http://localhost/service')
 
   ApppController.$inject = ['AppService']
   function ApppController (AppService) {
