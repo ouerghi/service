@@ -1,0 +1,33 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "npm init description of my project candide",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "browser-sync": "^2.18.12",
+    "eslint-plugin-angular": "^2.4.2",
+    "eslint": "^4.0.0",
+    "standard": "^10.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-angular": "^2.4.2",
+    "eslint-plugin-html": "^3.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "scripts": {
+    "test": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouerghi/service.git"
+  },
+  "author": "mahdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouerghi/service/issues"
+  },
+  "homepage": "https://github.com/ouerghi/service#readme"
+}
